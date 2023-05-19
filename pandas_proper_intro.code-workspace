@@ -40,7 +40,9 @@
 			"Towson",
 			"Villanova",
 			"Westport",
-			"Whatsgoodly"
+			"Whatsgoodly",
+			"xlabel",
+			"ylabel"
 		]
 	}
 }
